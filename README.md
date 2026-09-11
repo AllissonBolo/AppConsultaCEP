@@ -296,7 +296,7 @@ Data class que mapeia a resposta JSON:
 
 ## 📧 Contato
 
-**Autor**: Allisson Bolo  
+**Autor**: Rafaela M. (Allisson Bolo) 
 **GitHub**: [@AllissonBolo](https://github.com/AllissonBolo)  
 **Repositório**: [AppConsultaCEP](https://github.com/AllissonBolo/AppConsultaCEP)
 
@@ -312,6 +312,5 @@ Este projeto está sob a licença **MIT**. Sinta-se livre para usar, modificar e
 
 **Feito com ❤️ por Rafaela M.**
 
-⭐ Se este projeto foi útil, deixe uma estrela!
 
 </div>
