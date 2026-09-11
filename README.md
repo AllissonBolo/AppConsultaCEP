@@ -276,19 +276,6 @@ Data class que mapeia a resposta JSON:
 
 ---
 
-## 🚀 Melhorias Futuras
-
-- [ ] Tratamento de erros com mensagens customizadas
-- [ ] Cache de buscas locais
-- [ ] Histórico de CEPs consultados
-- [ ] Modo offline
-- [ ] Integração com Google Maps
-- [ ] Busca reversa (endereço → CEP)
-- [ ] Compartilhamento de endereços
-- [ ] Tema escuro
-
----
-
 ## 🐛 Troubleshooting
 
 ### "CEP inválido"
@@ -323,7 +310,7 @@ Este projeto está sob a licença **MIT**. Sinta-se livre para usar, modificar e
 
 <div align="center">
 
-**Feito com ❤️ por [AllissonBolo](https://github.com/AllissonBolo)**
+**Feito com ❤️ por Rafaela M.**
 
 ⭐ Se este projeto foi útil, deixe uma estrela!
 
